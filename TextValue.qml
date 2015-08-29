@@ -1,4 +1,5 @@
-import QtQuick 1.1
+//import QtQuick 1.1
+import QtQuick 2.4
 
 // just a Text which displays the text property from item
 Text {
