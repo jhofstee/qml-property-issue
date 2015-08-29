@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../main.qml</file>
+        <file>../TextValue.qml</file>
+        <file>../ValueObject.qml</file>
+    </qresource>
+</RCC>
