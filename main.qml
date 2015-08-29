@@ -1,16 +1,6 @@
-// qt 4.8.3
-/*
 import QtQuick 1.1
+
 Item {
-*/
-
-// qt 5
-import QtQuick 2.4
-import QtQuick.Window 2.2
-
-Window {
-    visible: true
-
     width: 300
     height: 200
 
